@@ -1,3 +1,4 @@
+//run webpack --watch
 module.exports = {
   entry: './client/index.js',
 

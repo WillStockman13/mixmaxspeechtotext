@@ -2,6 +2,8 @@ MixMax Speech to text Enhancement
 
 To run:
 
+-NPM Install
+
 -run webpack 
 -run node server/app.js
 
